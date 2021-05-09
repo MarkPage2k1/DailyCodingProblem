@@ -39,7 +39,7 @@ Bài toán này chúng ta có thể giải quyết bằng 3 bước:
 đơn giản ta chỉ việc sắp xếp các chữ số của input (lớn nhất (sắp xếp giảm dần), nhỏ nhất (sắp xếp tắng dần).
 ```
 
-- Giải pháp với [C](./SourceCode/C/problem1.c)
+- Giải pháp với [C](../SourceCode/C/problem1.c)
 
 </p>
 </details>

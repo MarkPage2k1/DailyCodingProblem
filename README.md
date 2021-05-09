@@ -25,3 +25,25 @@ Bạn được cho trước một số tự nhiên n, bạn có quyền tráo đ
 </details>
 
 ---
+###### 2. Problem 2 (easy)
+
+```
+[English]
+Given a positive integer n (n could be very big), you task is determine if that number is a power of 4.
+---------------------
+[VietNames]
+Cho số nguyên dương n, nhiệm vụ của bạn là viết hàm xác định xem n có phải là luỹ thừa của 4 hay không.
+---------------------
+@Nguồn: codelearn.io
+```
+
+<details><summary>Solution</summary>
+<p>
+
+- Chi tiết [tại đây!](./Solutions/problem2.md)
+- Giải pháp với [C++](./SourceCode/CPlusPlus/problem2.cpp)
+
+</p>
+</details>
+
+---
