@@ -51,11 +51,16 @@ Cho số nguyên dương n, nhiệm vụ của bạn là viết hàm xác địn
 
 ```
 [English]
-Consecutive numbers come when two adjacent digits are 1 unit apart and the following number is larger than
-the previous number (one-digit number can be accepted). Example: 1, 1234, 2345 ....... Wrong cases are: 012, 8910, 890. Give 2 positive integers l, r. Find types of consecutive numbers sorted in ascending order in consequence [l, r].
+Consecutive numbers come when two adjacent digits are 1 unit apart and the following number 
+is larger than the previous number (one-digit number can be accepted).
+Example: 1, 1234, 2345 ....... Wrong cases are: 012, 8910, 890. Give 2 positive integers l, r. 
+Find types of consecutive numbers sorted in ascending order in consequence [l, r].
 ---------------------
 [VietNames]
-Một chữ số gọi là liên tiếp nếu như hai chữ số liền kề cách nhau 1 đơn vị và số sau lớn hơn số trước đó(có thể chấp nhận số có một chữ số). Ví dụ: 1, 1234, 2345......, trường hợp sai: 012, 8910, 890. Cho 2 số nguyên dương l, r. Hãy tìm các loại số liên tiếp được sắp xếp theo thứ tự tăng dần trong đoạn [l, r].
+Một chữ số gọi là liên tiếp nếu như hai chữ số liền kề cách nhau 1 đơn vị và số sau lớn hơn 
+số trước đó(có thể chấp nhận số có một chữ số). 
+Ví dụ: 1, 1234, 2345......, trường hợp sai: 012, 8910, 890. Cho 2 số nguyên dương l, r. 
+Hãy tìm các loại số liên tiếp được sắp xếp theo thứ tự tăng dần trong đoạn [l, r].
 ---------------------
 @Nguồn: codelearn.io
 ```
